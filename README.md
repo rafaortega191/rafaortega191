@@ -74,6 +74,7 @@
  ### 👉 Software & Tools
  
 <p align="left">
+  
   &emsp;
   ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
   
