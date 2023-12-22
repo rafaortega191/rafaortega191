@@ -42,15 +42,12 @@
 
 ### 👉 Frameworks
 <p align="left"> 
+  
   &emsp;
   ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+  
   &emsp; 
   ![Mongoose Badge](https://img.shields.io/badge/Mongoose-F04D35?logo=mongoosedotws&logoColor=fff&style=for-the-badge)
-  &emsp;
-  
-  &emsp;
-  
-  &emsp;
   
 </p>
 
