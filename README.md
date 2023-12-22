@@ -90,9 +90,7 @@
   
   &emsp;
   ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)
-  
-  &emsp;
-  ![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=for-the-badge)
+
   
 </p>
 
